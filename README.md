@@ -1,6 +1,6 @@
 # Motivational-Video-Player-Public
 
-## This is project is conisdered done but it still has way to go to become a fullfledged app
+## This is project is conisdered done but it still has way to go to become a fullfledged app, note code is private
 
 # Goal of the project
 The project was intended to be my first app uploaded to the app store but I didn't upload it in the end, because I thought it lacked a key feature that would make the app not as valuable as I intended it to be in my opinion.
